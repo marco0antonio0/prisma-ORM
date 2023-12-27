@@ -54,3 +54,4 @@ export class PrismaService
 ```
 
 Voltar para a [pagina inicial](/README.md)
+Exemplo de simples CRUD na classe '**_service_**' [acesse aqui](/Passo_3/README.md)

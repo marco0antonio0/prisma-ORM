@@ -70,6 +70,10 @@ execute:
 npx prisma db pull
 ```
 
+```bash
+npx prisma generate
+```
+
 Agora o arquivo **_schema.prisma_** esta configurado com os dados necessarios
 
 Ir para o [Passo 2](Passo_2/README.md)
