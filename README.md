@@ -1,6 +1,13 @@
 ### Prisma Database
 
 ![img](imageReadme/imageREADME.png)
+
+#### **Acesso rapido**
+
+- [Passo_1 - Inicio ](README.md)
+- [Passo_2 - Arquivos](/Passo_2/README.md)
+- [Passo_3 - Exemplo de crud Service](/Passo_3/README.md)
+
 Este é um guia de passos simplificados para criar uma estrutura minima do prisma ORM no nest js
 
 #### 1. Instalando a cli do nest js
